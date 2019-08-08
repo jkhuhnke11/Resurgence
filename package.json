@@ -1,0 +1,21 @@
+{
+  "name": "resurgence",
+  "version": "1.0.0",
+  "description": "Gets current tap list at resurgence brewing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beer",
+    "Buffalo",
+    "New York",
+    "Resurgence"
+  ],
+  "author": "Jessica Huhnke",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "needle": "^2.4.0"
+  }
+}
